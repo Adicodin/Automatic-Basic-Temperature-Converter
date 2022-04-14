@@ -1,5 +1,5 @@
-# Automatic-Basic-Temperature-Convertor
-This is an automatic temperature convertor with GUI.
+# Automatic-Basic-Temperature-Converter
+This is an automatic temperature converter with GUI.
 
 Language used = Python
 
